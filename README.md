@@ -33,7 +33,7 @@ A modern web application that allows developers to create beautiful, shareable p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skillcard.git
+   git clone [https://github.com/Srinath66/skillcard.git]
    cd skillcard
    ```
 
